@@ -4,7 +4,7 @@ Luckiest Husband in the World. Professional Cloud Architect & Evangelist. Person
 
 ### Stats on GitHub:
 
-[![Patrick's's github stats](https://github-readme-stats.vercel.app/api?username=patrick-andrew-jain-taylor&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Patrick's's github stats](https://github-readme-stats.vercel.app/api?username=pjaintaylor&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Knowledge Domains:
 
